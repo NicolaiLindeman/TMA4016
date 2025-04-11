@@ -18,6 +18,7 @@ Kondensatoren(gul sirkel) er der for å sikre gjevn spenning. Knappen er der kun
 Her er noen bilder av interface + gardinen:  
 **Interface:**  
 ![interface](bilder/interface.png)
+
 **Gardinen:**
 ![oppkobling](bilder/oppkobling.jpg)
 ![gardin_nede](bilder/gardin_nede.png)
