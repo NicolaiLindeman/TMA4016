@@ -8,7 +8,7 @@ Målet med prosjektet er å til syvende og sist styre de via zigbee. Men per nå
 
 Hjernen bak gardinen er en esp32 lolin S2 mini (Hvit sirkel). Kildekoden ligger vedlagt. Grunnen til at gardinen har verdier mellom 0 og 255, er for enkel integrering med esp-alexa, som gjør slik at jeg kan styre gardinen med alexa.
 
-For å bevege på gardinen bruker jeg en standard steppermotor. For å få denne til å funke bruker jeg en motordriver. 
+For å bevege på gardinen bruker jeg en standard steppermotor. For å få denne til å funke bruker jeg en motordriver (blå sirkel). 
 ![stepper](stepper.jpg)
 
 I den røde sirkelen er en stepdown fra 5v til 3.3v, siden jeg tar inn kun 5v og esp-en bruker 3.3V.
