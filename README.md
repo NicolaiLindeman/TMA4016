@@ -18,6 +18,8 @@ Kondensatoren(gul sirkel) er der for å sikre gjevn spenning.
 Her er noen bilder av interface + gardinen:  
 **Interface:**  
 ![interface](interface.png)
+![oppkobling](oppkobling.jpg)
+![gardin_nede](gardin_nede.png)
 
 Gardinen er en ganske standard IKEA gardin. For å få motoren til å funke har jeg 3d printet en sprocket som går inni gardinen. I tillegg har jeg 3d printet wallmount. Disse filene ligger vedlagt i GIT-huben hvis du vil se de 😊.
 
