@@ -13,11 +13,12 @@ For å bevege på gardinen bruker jeg en standard steppermotor. For å få denne
 
 I den røde sirkelen er en stepdown fra 5v til 3.3v, siden jeg tar inn kun 5v og esp-en bruker 3.3V.
 
-Kondensatoren(gul sirkel) er der for å sikre gjevn spenning.
+Kondensatoren(gul sirkel) er der for å sikre gjevn spenning. Knappen er der kun for oppsett, slik at jeg får stoppet gardinen på vei opp.
 
 Her er noen bilder av interface + gardinen:  
 **Interface:**  
 ![interface](interface.png)
+**Gardinen:**
 ![oppkobling](oppkobling.jpg)
 ![gardin_nede](gardin_nede.png)
 
