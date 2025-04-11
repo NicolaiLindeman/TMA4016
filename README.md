@@ -6,13 +6,14 @@ For oblig I TMA4106 har jeg valgt å «Bygge noe revolusjonerende». Spesifikt �
 
 Målet med prosjektet er å til syvende og sist styre de via zigbee. Men per nå er det over wifi, som funker det også.
 
-Hjernen bak gardinen er en esp32 lolin S2 mini. Kildekoden ligger vedlagt. Grunnen til at gardinen har verdier mellom 0 og 255, er for enkel integrering med esp-alexa, som gjør slik at jeg kan styre gardinen med alexa.
+Hjernen bak gardinen er en esp32 lolin S2 mini (Hvit sirkel). Kildekoden ligger vedlagt. Grunnen til at gardinen har verdier mellom 0 og 255, er for enkel integrering med esp-alexa, som gjør slik at jeg kan styre gardinen med alexa.
 
 For å bevege på gardinen bruker jeg en standard steppermotor. For å få denne til å funke bruker jeg en motordriver. 
+![stepper](stepper.jpg)
 
 I den røde sirkelen er en stepdown fra 5v til 3.3v, siden jeg tar inn kun 5v og esp-en bruker 3.3V.
 
-Kondensatoren er der for å sikre gjevn spenning.
+Kondensatoren(gul sirkel) er der for å sikre gjevn spenning.
 
 Her er noen bilder av interface + gardinen:  
 **Interface:**  
