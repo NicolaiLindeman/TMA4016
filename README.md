@@ -1,6 +1,8 @@
 Oblig TMA4106
 For oblig I TMA4106 har jeg valgt å «Bygge noe revolusjonerende». Spesifikt å automatisere rullgardinene min på rommet. 
 
+[!oversikt over system](system.jpg)
+
 Målet med prosjektet er å til syvende og sist styre de via zigbee. Men per nå er det over wifi, som funker det også.
 
 Hjernen bak gardinen er en esp32 lolin S2 mini. Kildekoden ligger vedlagt. Grunnen til at gardinen har verdier mellom 0 og 255, er for enkel integrering med esp-alexa, som gjør slik at jeg kan styre gardinen med alexa.
