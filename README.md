@@ -23,5 +23,6 @@ Her er noen bilder av interface + gardinen:
 ![gardin_nede](bilder/gardin_nede.png)
 
 Gardinen er en ganske standard IKEA gardin. For å få motoren til å funke har jeg 3d printet en sprocket som går inni gardinen. I tillegg har jeg 3d printet wallmount. Disse filene ligger vedlagt i GIT-huben hvis du vil se de 😊.
-
+**Wallmount og sprocket:**
+![w&m](bilder/wallmoundogsprocket.png)
 I tillegg til dette har jeg «teknisk» verv i Teknologi komiteen i elektra. Her er jeg nestleder og er ansvarlig for back-end for nettsiden. Dette innebærer mye programmering, hovedsakelig i python og html, samt noe deligering av ansvar i back-end teamet. Jeg er også ansvarlig for sammarbeid og integrering med front-end.
