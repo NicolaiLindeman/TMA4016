@@ -1,7 +1,8 @@
-Oblig TMA4106
+# Oblig TMA4106
+
 For oblig I TMA4106 har jeg valgt å «Bygge noe revolusjonerende». Spesifikt å automatisere rullgardinene min på rommet. 
 
-[!oversikt over system](system.jpg)
+![oversikt over system](system.jpg)
 
 Målet med prosjektet er å til syvende og sist styre de via zigbee. Men per nå er det over wifi, som funker det også.
 
@@ -13,13 +14,10 @@ I den røde sirkelen er en stepdown fra 5v til 3.3v, siden jeg tar inn kun 5v og
 
 Kondensatoren er der for å sikre gjevn spenning.
 
-Her er noen bilder av interface + gardinen: 
-Interface: 
-[!interface](interface.png)
+Her er noen bilder av interface + gardinen:  
+**Interface:**  
+![interface](interface.png)
 
 Gardinen er en ganske standard IKEA gardin. For å få motoren til å funke har jeg 3d printet en sprocket som går inni gardinen. I tillegg har jeg 3d printet wallmount. Disse filene ligger vedlagt i GIT-huben hvis du vil se de 😊.
 
 I tillegg til dette har jeg «teknisk» verv i Teknologi komiteen i elektra. Her er jeg nestleder og er ansvarlig for back-end for nettsiden. Dette innebærer mye programmering, hovedsakelig i python og html, samt noe deligering av ansvar i back-end teamet. Jeg er også ansvarlig for sammarbeid og integrering med front-end.
-
-
-
